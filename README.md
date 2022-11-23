@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌐 Redes Sociales:
+Facebook Instagram LinkedIn Twitter
+
+💻 Habilidad técnica:
+Netlify Vercel C++ CSS3 HTML5 Java JavaScript PHP jQuery MySQL React Router Redux NodeJS React Express.js MariaDB Postgres Trello Babel Postman sequelize
+
+💻 Habilidad blandas:
+Colaborativo
+Perseverancia
+Proactivo
+Autodiacta
+Empatia
+Gestion de tiempo
+Sociable
