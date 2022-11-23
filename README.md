@@ -25,7 +25,6 @@ Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript
 <br/>  
 
   
-<table><tr><td valign="top" width="100%">
 
 - 🌱 Actualmente me encuentro aprendiendo sobre el desarollo de mi portafolio empezando con React, Material UI, Next.js y TypeScript  
   
@@ -36,11 +35,6 @@ Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript
 - 📫 Cómo contactarme: +543884702649  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
