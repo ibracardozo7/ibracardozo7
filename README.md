@@ -6,7 +6,7 @@
 ### Soy un Fullstack Web Developer con JS 👨🏽‍💻  
 Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto mucho del trabajo en equipo. Estoy constantemente aprendiendo sobre nuevas tecnologías.
 
-Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript / Styled - Components / Node / Express / PostgreSQL / Sequelize  
+Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript / Bootstrap / Styled - Components / Node / Express / PostgreSQL / Sequelize  
   
 
 <div align="center">
