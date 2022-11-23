@@ -61,6 +61,16 @@ Proximamente...
 
 <br/>  
 
+# 💻 Habilidad blandas:
+
+* Dedicacion
+* Adaptabilidad
+* Flexibilidad
+* Creatividad
+* Empatia
+* Resolucion de problemas
+* Sociable
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
