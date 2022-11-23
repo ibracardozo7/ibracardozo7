@@ -35,7 +35,9 @@ Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript
 - 📫 Cómo contactarme: +543884702649  
 
 Proximamente...
-. Portafolio
+
+
+- Portafolio
 
 
 
