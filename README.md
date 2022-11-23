@@ -1,31 +1,25 @@
-### Hi there 👋
+## Hola👋, Me llamo Ibrahim!   
+  
 
-<!--
-**ibracardozo7/ibracardozo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soy un Fullstack Web Developer con JS 👨🏽‍💻  
+Amante de la programación, soy capaz de brindar soluciones óptimas y disfruto mucho del trabajo en equipo. Estoy constantemente aprendiendo sobre nuevas tecnologías.
 
-🌐 Redes Sociales:
-Facebook Instagram LinkedIn Twitter
+Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript / Styled - Components / Node / Express / PostgreSQL / Sequelize  
+  
 
-💻 Habilidad técnica:
-Netlify Vercel C++ CSS3 HTML5 Java JavaScript PHP jQuery MySQL React Router Redux NodeJS React Express.js MariaDB Postgres Trello Babel Postman sequelize
+<div align="center">
+<a href="https://github.com/ibracardozo7" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ibrahim-cardozo" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ibracardozo7" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-💻 Habilidad blandas:
-Colaborativo
-Perseverancia
-Proactivo
-Autodiacta
-Empatia
-Gestion de tiempo
-Sociable
+<br/>  
