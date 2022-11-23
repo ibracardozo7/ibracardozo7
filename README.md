@@ -24,9 +24,8 @@ Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+  
+<table><tr><td valign="top" width="100%">
 
 - 🌱 Actualmente me encuentro aprendiendo sobre el desarollo de mi portafolio empezando con React, Material UI, Next.js y TypeScript  
   
