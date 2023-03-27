@@ -34,10 +34,8 @@ Habilidades: Javascript / HTML / CSS / React / Redux / Tailwind CSS / TypeScript
 
 - 📫 Cómo contactarme: +543884702649  
 
-Proximamente...
 
-
-- Portafolio
+- Portafolio: https://ibrahimcardozo.vercel.app/
 
 
 
@@ -57,6 +55,10 @@ Proximamente...
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" 
+alt="Material UI" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png"
+alt="NextJS" height="50" /></a>
 </div>  
 
 <br/>  
